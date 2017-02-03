@@ -60,5 +60,9 @@ If you'd like to read up on it more, this is the website for it https://chocolat
 * finally, we'll type the command `ruby dk.rb install`
 * you'll need to close and reopen your powershell like before, because this is also modifying your some things to set up your computer to support ruby development.
 
+## updating the existing gem installation
 
+* Please follow along in the instructions provided at:
+ * http://guides.rubygems.org/ssl-certificate-update/#installing-using-update-packages
+ * Note: when they refer to your Command Prompt, please use your powershell as admin
 

@@ -42,3 +42,9 @@ If you'd like to read up on it more, this is the website for it https://chocolat
  * Note: you will see a separate window pop up during the installation of ruby2.webkit, this is normal, just let it run it's course
 * once everything finishes installing, exit powershell, and we'll open another powershell as administrator
  * this is necessary, because there are some settings added during the install which only take effect once a new powershell is opened
+
+## updating the existing gem installation
+
+* Please follow along in the instructions provided at:
+ * http://guides.rubygems.org/ssl-certificate-update/#installing-using-update-packages
+ * Note: when they refer to your Command Prompt, please use your powershell as admin
